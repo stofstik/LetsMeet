@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Let\'s Meet</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_change_username">Change username</string>
+    <string name="action_leave_meet">Leave meet</string>
+
+    <string name="dialog_change_username_title">Change username</string>
+    <string name="dialog_change_username_edittext_hint">Username</string>
+    <string name="dialog_change_username_positive">Save</string>
+    <string name="dialog_change_username_negative">Cancel</string>
+
+    <string name="fragment_map_lets_meet">Let\'s Meet!</string>
+
+
+</resources>

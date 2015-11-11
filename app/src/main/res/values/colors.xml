@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_lets_meet_dark">#a22f27</color>
+    <color name="primary_dark_lets_meet_dark">#6e1e19</color>
+    <color name="accent_lets_meet_light">#ff4c40</color>
+    <color name="accent_lets_meet_light_muted">#94504b</color>
+
+</resources>
